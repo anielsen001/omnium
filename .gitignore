@@ -1,0 +1,11 @@
+# ignore everything
+*
+
+# except quarto files
+!*.qmd
+!styles.css
+!*.yml
+
+# except git related files
+!.gitignore
+!.gitattributes
