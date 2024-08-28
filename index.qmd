@@ -1,0 +1,14 @@
+---
+title: "Omnium Cargo"
+---
+
+These are my notes on the [Omnium cargo bike](https://omniumcargo.com/cargo/) and my customizations.
+
+
+## References
+
+### 3D printed parts
+
+
+https://www.printables.com/model/683441-omnium-cargo-parts-light-mount
+
