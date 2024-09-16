@@ -1,0 +1,21 @@
+---
+title: Extensions to rack
+---
+
+## Pipe adapter
+
+https://www.printables.com/model/132932-parametric-pipe-adapter-openscad/files
+
+## Pipe fittins
+
+https://www.printables.com/model/415915-openscad-pipe-fitting-scripts
+
+https://www.thingiverse.com/thing:18802
+
+https://www.printables.com/model/785854-openscad-pipe-connector-generator
+
+https://www.thingiverse.com/thing:4323468
+
+## pipe plugs
+
+https://www.printables.com/model/211618-pipe-plugs/files
