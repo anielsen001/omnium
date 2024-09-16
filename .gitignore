@@ -9,3 +9,6 @@
 # except git related files
 !.gitignore
 !.gitattributes
+
+# except openscad files
+!*.scad
