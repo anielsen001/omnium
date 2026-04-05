@@ -1,0 +1,11 @@
+---
+title: Components
+format: html
+---
+
+## Bottom Bracket
+
+- Original failed after about 6000 mi.
+- Replaced with Tange LN-3922 Square Taper Bottom Bracket (68x107)
+  - <https://www.thebikesmiths.com/products/tange-ln-3922?variant=6891650842658>
+  
