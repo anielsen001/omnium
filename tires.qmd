@@ -1,0 +1,18 @@
+---
+title: Tires
+format: html
+---
+
+## Stock tires
+
+Schwalbe Big Ben Plus
+
+- Front: 20x2.15
+- Rear:  28x2.15
+
+## Winter tires
+
+Schwalbe Maraton Winter Plus
+
+- Front: 20x2.15
+- Rear:  28x2.00
