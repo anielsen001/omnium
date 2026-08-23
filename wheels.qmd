@@ -1,0 +1,16 @@
+---
+title: Wheels
+format: html
+---
+
+Oneline information was conflicting, so these are the measurements I made of mine:
+
+Dropout dimensions:
+
+- Front: 100 mm width, 15 mm diameter thru axle
+- Rear: 142 mm width, 12 mm diameter thru axle
+
+Build details
+
+- Rear hub is a SRAM XD drive train.
+- Both are ISO 6-bolt brake rotor mounts
