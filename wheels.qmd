@@ -10,7 +10,45 @@ Dropout dimensions:
 - Front: 100 mm width, 15 mm diameter thru axle
 - Rear: 142 mm width, 12 mm diameter thru axle
 
-Build details
+Rim dimensions:
 
-- Rear hub is a SRAM XD drive train.
+- Front: 20 in x 2.15 tire - 406
+- Rear: 29 in / 700c - 622
+
+New build
+
+- Rear:
+  - White Industries XMR 36 hole hub - black
+  - Velocity Cliffhangar Rim - black
+  - Spokes - double butted
+- Front: 
+  - While Industried XMR
+
+Original Build details
+
+- Rear hub is a Shimano HG drivetrain - using these cassette  SRAM Pg-1130 11 Speed Cassette
 - Both are ISO 6-bolt brake rotor mounts
+- Ominum wheels - DT-Swiss 370 hubs
+
+
+It's been a few minutes, but I need some time to figure out what my frame actually support and to inspect the front wheel as well. I think I have a good idea of what I want and need, can you look thru my thoughts and provide any additional recommendations? 
+
+I decided that I want to replace both front and rear wheels. I've done all the measurements, to confirm everything. I had issues finding correct and consistent information about my frame online. I think there are differences between the Omnium frames in the EU and US markets (unfortunately they pulled out of US market). 
+
+I had one additional question about your spoke recommendation. What's the benefit of single butted vs double butted spokes? I've heard in the past that double butted was preferred.
+
+i'd like to use 36 spokes for the rear and ideally for the front. I do have a question about the front, it's currently 32 spokes, if I up the spoke count to 36, will it be difficult to get access to the valve stem on the 20in wheel?
+
+Dropout dimensions:
+- Front: 100 mm width, 15 mm diameter thru axle
+- Rear: 142 mm width, 12 mm diameter thru axle
+
+Rim dimensions:
+- Front: 20 in x 2.15 tire - 406
+- Rear: 29 in / 700c - 622
+
+thank you for the recommendation for the White Industries XMR hubs. I would like to use these with the 6 hole ISO brake mount. I have SRAM components, but it's a Shimano HG freehub driver (this is the replacement cassette I've used SRAM Pg-1130)
+
+I'd like to use velocity cliffhangar rims
+
+spokes, rims, hubs in black.
